@@ -1,0 +1,17 @@
+body{
+    background-color: #c7ced8;
+    font-family: Roboto;
+}
+tr {
+    background-color: #27426d;
+    color: white;
+    text-align: center;
+}
+table{
+    width: 100%;
+    border-color: black;
+}
+td{
+    width: 10%;
+    height: 35px;
+}
